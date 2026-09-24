@@ -223,3 +223,55 @@ addons:
       "1.21.11": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/Networks/1.21.11/releases"
       "1.20.4": ""
       "1.19.4": ""         
+
+  SoulJars:
+    name: "SoulJars"
+    enabled: false
+    download: false
+    auto-update: true
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+    versions:
+      "26.2": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/SoulJars/26.2/releases"
+      "26.1.2": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/SoulJars/26.1.2/releases"
+      "26.1.1": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/SoulJars/26.1.1/releases"
+      "26.1": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/SoulJars/26.1/releases"
+      "1.21.11": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/SoulJars/1.21.11/releases"
+      "1.20.4": ""
+      "1.19.4": ""
+
+  MobCapturer:
+    name: "MobCapturer"
+    enabled: false
+    download: false
+    auto-update: true
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+    versions:
+      "26.2": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/MobCapturer/26.2/releases"
+      "26.1.2": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/MobCapturer/26.1.2/releases"
+      "26.1.1": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/MobCapturer/26.1.1/releases"
+      "26.1": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/MobCapturer/26.1/releases"
+      "1.21.11": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/MobCapturer/1.21.11/releases"
+      "1.20.4": ""
+      "1.19.4": ""         
+
+    
+  FNAmplifications:
+    name: "FNAmplifications"
+    enabled: false
+    download: false
+    auto-update: true
+    sha256: ""
+    checksum-url: ""
+    api-url: ""
+    versions:
+      "26.2": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/FNAmplifications/26.2/releases"
+      "26.1.2": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/FNAmplifications/26.1.2/releases"
+      "26.1.1": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/FNAmplifications/26.1.1/releases"
+      "26.1": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/FNAmplifications/26.1/releases"
+      "1.21.11": "https://github.com/SlimeCore-MC/SF4-Addons/tree/main/Addons/FNAmplifications/1.21.11/releases"
+      "1.20.4": ""
+      "1.19.4": ""         
